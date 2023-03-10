@@ -5,8 +5,12 @@
 
 ### Notes:
 ### https://communities.sas.com/t5/Statistical-Procedures/Understanding-the-difference-between-Logistic-regression-results/td-p/735963
-### Statsmodels Python Module. https://www.statsmodels.org/stable/index.html
-### Find P-value (significance) in Scikit-learn Linear Regression. https://www.datacourses.com/find-p-value-significance-in-scikit-learn-3810/
-### Statistics in Python: Chi-Squared Tests. https://rowannicholls.github.io/python/statistics/hypothesis_testing/chi_squared.html
 ### Example R Code/Graphs Using NHANES. https://awagaman.people.amherst.edu/stat230/Stat230CodeCompilationExampleCodeUsingNHANES.pdf
 ### NHANES: Testing Weighted Data. https://stat2labs.sites.grinnell.edu/Handouts/WeightedData/HealthTestingWeightspdf.pdf
+### LOGIT Regression | R Data Analysis Examples. https://stats.oarc.ucla.edu/r/dae/logit-regression/
+### How to Perform a Logistic Regression in R. https://www.r-bloggers.com/2015/09/how-to-perform-a-logistic-regression-in-r/
+### Logistic Regression Essenials in R. http://www.sthda.com/english/articles/36-classification-methods-essentials/151-logistic-regression-essentials-in-r/
+### Logistic Regression in R Turorial. https://www.datacamp.com/tutorial/logistic-regression-R
+### Generalized Linear Models. https://www.statmethods.net/advstats/glm.html
+### Survey-Weighted Generalized Linear Models. https://rstudio-pubs-static.s3.amazonaws.com/206608_2448a0d93fb6488390be2861a49b7989.html
+
